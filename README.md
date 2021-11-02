@@ -18,7 +18,7 @@
 * program ini menggunakan selection sort (untuk menentukan data dari yang terkecil)
 
 
-![GAMBAR 3](gambar/list-1.PNG)
+![GAMBAR 3](gambar/Capture.PNG)
 
 
 ======================= PROGRAM KE 3 =======================
