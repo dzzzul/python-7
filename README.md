@@ -4,10 +4,10 @@
 * program ini di buat menggunakan kondisi if, elif dan else
 * dan program ini juga menggunakan operator pembanding
 
-INPUT
+        INPUT
 ![gambar 1](gambar/input_2.PNG)
 
-OUTPUT
+        OUTPUT
 ![gambar 2](gambar/input_2.1.PNG)
 
 ======================= PROGRAM KE 2 =======================
@@ -19,6 +19,7 @@ OUTPUT
 ![gambar 3](gambar/List_1.png)
 
         OUTPUT
+![gambar 4](gambar/List_2.PNG)
 
 
 ======================= PROGRAM KE 3 =======================
