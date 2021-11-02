@@ -5,9 +5,9 @@
 * dan program ini juga menggunakan operator pembanding
 
         INPUT
-![gambar 1](gambar/input_2.py)
+![gambar 1](gambar/input_2.PNG)
         OUTPUT
-![gambar 2](gambar/input_2.1.py)
+![gambar 2](gambar/input_2.1.PNG)
 
 ======================= PROGRAM KE 2 =======================
 
