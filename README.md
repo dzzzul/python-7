@@ -19,11 +19,11 @@
 
        INPUT
 
-![gambar 3](gambar/list_1.PNG)
+![gambar 3](gambar/input_3.PNG)
 
         OUTPUT
 
-![gambar 4](gambar/list_2.PNG)
+![gambar 4](gambar/input_3.1.PNG)
 
 ======================= PROGRAM KE 3 =======================
 
