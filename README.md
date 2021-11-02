@@ -16,11 +16,23 @@
 * program ini menggunakan selection sort (untuk menentukan data dari yang terkecil)
 
         INPUT
-![gambar 3](gambar/List_1.png)
+![gambar 3](gambar/List_1.PNG)
 
         OUTPUT
 ![gambar 4](gambar/List_2.PNG)
 
 
 ======================= PROGRAM KE 3 =======================
+* membuat program perulangan bertingkat (nested) for
+* program ini di buat menggunakan perulangan/looping (for)
+* range yang merupakan jarak / batasan
+* nested loop adalah membuat program perulangan di dalam perulangan
 
+        INPUT
+![gambar 5](gambar/nested_1.PNG)
+
+* [for i] yang di dalam nya ada [for j]
+* dan range 1..10 artrinya di mulai dari angka 0 dan di akhiri angka 9
+
+        OUTPUT
+![gambar 6](gambar/nested_2.PNG)
