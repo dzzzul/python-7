@@ -15,7 +15,11 @@ OUTPUT
 * program ini di buat terdiri dari banyak inputan dan list
 * program ini menggunakan selection sort (untuk menentukan data dari yang terkecil)
 
+        INPUT
 ![gambar 3](gambar/List_1.png)
+
+        OUTPUT
+
 
 ======================= PROGRAM KE 3 =======================
 
