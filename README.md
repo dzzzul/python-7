@@ -36,3 +36,16 @@
 
         OUTPUT
 ![gambar 6](gambar/nested_2.PNG)
+
+======================= PROGRAM KE 4 =======================
+* Tampilkan n bilangan acak yang lebih kecil dari 0.5.
+* program ini di buat menggunakan while loop dan for loop
+* import random mempunya fungsi menampilkan nilai / huruf acak
+
+        INPUT
+![gambar 7](gambar/while_1.PNG)
+
+        OUTPUT
+![gambar 8](gambar/while_2.PNG)
+
+======================= TERIMAKASIH =======================
