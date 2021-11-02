@@ -18,7 +18,6 @@
 * program ini menggunakan selection sort (untuk menentukan data dari yang terkecil)
 
        INPUT
-
 ![gambar 3](gambar/input_3.PNG)
 
         OUTPUT
