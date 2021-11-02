@@ -17,12 +17,13 @@
 * program ini di buat terdiri dari banyak inputan dan list
 * program ini menggunakan selection sort (untuk menentukan data dari yang terkecil)
 
-       INPUT
-![gambar 3](gambar/input_3.PNG)
+        INPUT
+![gambar 3](gambar/list-1.PNG)
 
         OUTPUT
+        
+![GAMBAR 4](gambar/list-2.PNG)
 
-![gambar 4](gambar/input_3.1.PNG)
 
 ======================= PROGRAM KE 3 =======================
 
