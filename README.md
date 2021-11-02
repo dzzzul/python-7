@@ -6,10 +6,24 @@
 
         INPUT
 ![gambar 1](gambar/input_2.PNG)
+
         OUTPUT
+
 ![gambar 2](gambar/input_2.1.PNG)
 
 ======================= PROGRAM KE 2 =======================
 
+* mengurutkan data dari yang terkecil dari beberapa inputan
+* program ini di buat terdiri dari banyak inputan dan list
+* program ini menggunakan selection sort (untuk menentukan data dari yang terkecil)
 
+       INPUT
+
+![gambar 3](gambar/list_1.PNG)
+
+        OUTPUT
+
+![gambar 4](gambar/list_2.PNG)
+
+======================= PROGRAM KE 3 =======================
 
