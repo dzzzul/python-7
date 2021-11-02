@@ -9,7 +9,7 @@
 
         OUTPUT
 
-![gambar 2](gambar/input_2.1.PNG)
+
 
 ======================= PROGRAM KE 2 =======================
 
@@ -18,8 +18,7 @@
 * program ini menggunakan selection sort (untuk menentukan data dari yang terkecil)
 
 
-![GAMBAR 3](gambar/Capture.PNG)
-
+![gambar 2](gambar/input_2.1.PNG)
 
 ======================= PROGRAM KE 3 =======================
 
